@@ -1,7 +1,7 @@
 ## Retros
 A simple diary app made by Fesa. Thank you for your suppport!
 
-## Privacy Policy
+## Retros Privacy Policy
 By using Retros you accept and agree to be bound by Retros Privacy Policy.
 
 Retros do not collect any of your private content without user's permission.
